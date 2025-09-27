@@ -40,6 +40,7 @@
       <li>Terraform &amp; Ansible templates you can reuse in interviews</li>
       <li>A Docker/Kubernetes deployment running on AWS</li>
       <li>Jenkins and webhooks integration test to allow automatic triggering of jenkins jobs-lab4</li>
+      <li>Another test after resetting timezone</li>
     </ul>
   </body>
 </html>
