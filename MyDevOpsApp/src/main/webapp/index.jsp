@@ -34,11 +34,12 @@
       <li>Containers &amp; K8s: Build/push to ECR, deploy on EKS.</li>
     </ul>
 
-    <h3>You’ll leave with:</h3>
+    <h3>You will leave with:</h3>
     <ul>
-      <li>A working end-to-end pipeline (code → build → test → quality gate → artifact → deploy → notify)</li>
+      <li>A working end-to-end pipeline (code = build = test = quality gate = artifact = deploy = notify)</li>
       <li>Terraform &amp; Ansible templates you can reuse in interviews</li>
       <li>A Docker/Kubernetes deployment running on AWS</li>
+      <li>Jenkins and webhooks integration test to allow automatic triggering of jenkins jobs-lab4</li>
     </ul>
   </body>
 </html>
