@@ -23,7 +23,7 @@
   <body>
     <h2>Welcome to DevOps Automation World!!!</h2>
 
-    <h3>Hands-on labs from Day 1:</h3>
+    <h3>Hands-on labs from Day 1 and obtained 2 to 3 years experience by the end of training:</h3>
     <ul>
       <li>AWS + Terraform: Provision EC2, store remote state, and stand up SonarQube/Jenkins Servers.</li>
       <li>Jenkins CI/CD: GitHub webhooks, scripted &amp; declarative pipelines, multibranch, distributed builds.</li>
